@@ -8,20 +8,5 @@
         "role": "owner",
         "name": "[FEMB] Valee",
         "link": "https://youtube.com/@vale_1881?si=qAo55B1ubonaKaCN"
-    },
-    {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
     }
-]
+  
