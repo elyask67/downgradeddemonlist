@@ -100,30 +100,35 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Achieved the record without using hacks(including Physics Bypass, however FPS bypass is allowed).
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Have clicks/taps recorded from your microphone in the video.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        A Cheat Indicator is required.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                         A CPS Counter must be present in the video(if you don't have it, use the "Show Info Label" Option in GD).
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        The recording must show the previous attempt, the entire end screen and death animation(unless the record is a first attempt).
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        Do not use bug routes.
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Note that using more than one mod menu can cause suspicion.
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        If a list moderator is suspicious of your completion, they may ask for additional proof or in rare cases reject it entirely.
                     </p>
-                </div>
+                     <p>
+                        After you submit a Completion, please provide the amount of HZ you completed the level on.
+                    </p>
+                     <p>
+                        Isolated clicks are required for records in the Top 10.
+                    </p>
             </div>
         </main>
     `,
