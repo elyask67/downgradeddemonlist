@@ -8,5 +8,11 @@
     "percentToQualify": "56",
     "password": "Free To Copy",
     "records": [
+     {
+            "user": "Orb",
+            "link": "https://medal.tv/games/geometry-dash/clips/n79iUITjoGVw5u3Ob?invite=cr-MSxQSlMsNjc0ODkzNzAy",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
