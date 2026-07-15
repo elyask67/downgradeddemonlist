@@ -8,5 +8,17 @@
     "percentToQualify": 74,
     "Skill Set": "Wave & spam",
      "records": [
-    ]
+    {
+     "user": "Jacub",
+            "link": "https://medal.tv/games/geometry-dash/clips/n7uTDV388mmYFhsJP?invite=cr-MSx3RFAsNjc0ODg2ODU3",
+            "percent": 100,
+              "hz": 180
+                },
+     {
+     "user": "Lavender",
+            "link": "https://medal.tv/games/geometry-dash/clips/n7zuGK3Dza5az7jZF?invite=cr-MSxVNHcsODIwNDg3Mzg",
+            "percent": 100,
+              "hz": 280
+                }
+     ]
 }
