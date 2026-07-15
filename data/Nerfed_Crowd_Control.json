@@ -8,5 +8,11 @@
     "percentToQualify": "58",
     "password": "Free To Copy",
     "records": [
-    ]
+        {
+     "user": "Lavender",
+            "link": "https://medal.tv/games/geometry-dash/clips/n7DVfXCy7v991jR0l?invite=cr-MSxmQVYsODIwNDg3Mzg",
+            "percent": 100,
+              "hz": 280
+                }
+      ]
 }
