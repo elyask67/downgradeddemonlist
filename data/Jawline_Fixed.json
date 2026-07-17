@@ -9,10 +9,16 @@
     "password": "Free To Copy",
     "records": [
       {
-     "user": "Lavender",
+     "user": "lavender",
             "link": "https://medal.tv/games/geometry-dash/clips/n7XpdWPPNb7nt2Ynd?invite=cr-MSxGZTMsODIwNDg3Mzg",
             "percent": 100,
               "hz": 280
+                },
+    {
+     "user": "Jacub",
+            "link": "https://medal.tv/games/geometry-dash/clips/n7rOlpLYXEY5PyhmP?invite=cr-MSxtb2UsNjc0ODg2ODU3",
+            "percent": 100,
+              "hz": 180
                 }
-      ]
+    ]
 }
