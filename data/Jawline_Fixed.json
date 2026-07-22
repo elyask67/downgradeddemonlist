@@ -1,7 +1,7 @@
 {
     "id": 145336603,
     "name": "Jawline Fixed",
-    "author": "ybm54",
+    "author": "Ybm54",
     "creators": ["[FEMB] Valee"],
     "verifier": "[FEMB] Valee",
     "verification": "https://youtu.be/62XRsAaz6LI",
@@ -19,6 +19,12 @@
             "link": "https://medal.tv/games/geometry-dash/clips/n7rOlpLYXEY5PyhmP?invite=cr-MSxtb2UsNjc0ODg2ODU3",
             "percent": 100,
               "hz": 180
+                },
+  {
+     "user": "[DFD] Ybm54",
+            "link": "https://youtu.be/2krRvkGI_JU?si=Gl6aUTxC-h83Cgho",
+            "percent": 100,
+              "hz": 60
                 }
     ]
 }
