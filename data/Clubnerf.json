@@ -14,11 +14,17 @@
             "percent": 100,
             "hz": 240
                  },
-   {
+               {
             "user": "lavender",
             "link": "https://youtu.be/06DRe5gSaZk",
             "percent": 100,
             "hz": 280
+                 },
+               {
+            "user": "Larp",
+            "link": "https://medal.tv/games/geometry-dash/clips/nc6A9ABkRW0JpNoDu?invite=cr-MSxJeW0sNTQ5NzM0OTE3",
+            "percent": 100,
+            "hz": 260
                  }
     ]
 }
