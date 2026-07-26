@@ -8,5 +8,11 @@
     "percentToQualify": "72",
     "password": "Free To Copy",
     "records": [
+      {
+     "user": "lavender",
+            "link": "https://youtu.be/YrLnZLa_afw",
+            "percent": 100,
+              "hz": 280
+                }
     ]
 }
