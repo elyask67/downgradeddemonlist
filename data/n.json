@@ -34,9 +34,15 @@
                 },
  {
      "user": "Szymixx",
-            "link": "https://youtu.be/UaHgMCJ4KpQ ",
+            "link": "https://youtu.be/UaHgMCJ4KpQ",
             "percent": 100,
               "hz": 144
+                 },
+ {
+     "user": "[FEMB] Aeris",
+            "link": "https://www.youtube.com/watch?v=av9ZHvZoNNQ",
+            "percent": 100,
+              "hz": 120
                 }
     ]
 }
