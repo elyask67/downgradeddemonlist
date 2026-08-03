@@ -58,7 +58,13 @@
       },
      {
      "user": "Szymixx",
-            "link": "https://youtu.be/Eij-iSKVPSk ",
+            "link": "https://youtu.be/Eij-iSKVPSk",
+            "percent": 100,
+              "hz": 144
+ },
+     {
+     "user": "minus130",
+            "link": "https://medal.tv/games/geometry-dash/clips/nflM6RDI8cm_yD3xD?invite=cr-MSxRQU4sNTQ5NzM0OTE3",
             "percent": 100,
               "hz": 144
                 }
