@@ -8,5 +8,17 @@
     "percentToQualify": "52",
     "password": "Free To Copy",
     "records": [
+    {
+            "user": "Articuno114",
+            "link": "https://medal.tv/games/geometry-dash/clips/nnVGpk9xQCPEFVMx8?invite=cr-MSw0bVUsMjMyNTQyMzQ4",
+            "percent": 100,
+            "hz": 240
+        },
+    {
+            "user": "lavender",
+            "link": "https://medal.tv/games/geometry-dash/clips/no1wBW0sgOPIuBvXy?invite=cr-MSx0NWssODIwNDg3Mzg",
+            "percent": 100,
+            "hz": 280
+        }
     ]
 }
