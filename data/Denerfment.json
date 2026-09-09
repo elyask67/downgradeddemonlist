@@ -103,6 +103,12 @@
             "link": "https://www.youtube.com/watch?v=mKIb__S_57k",
             "percent": 100,
               "hz": 240
+                },
+    {
+     "user": "IBlameLag",
+            "link": "https://youtu.be/tZm3Cwb7rzk",
+            "percent": 100,
+              "hz": 60
                 }
     ]
 }
